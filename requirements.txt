@@ -1,0 +1,16 @@
+flask
+phidata==2.4.22
+duckduckgo-search
+groq
+openai
+exa_py
+python-dotenv
+pypdf
+#psycopg2
+pgvector 
+beautifulsoup4
+ollama
+sqlalchemy
+psycopg2-binary
+nest-asyncio
+flask-cors
